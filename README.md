@@ -22,4 +22,4 @@ Pandas
 scikit-learn
 Matplotlib
 MLflow
-Poertry
+Poetry (brew install poetry)
