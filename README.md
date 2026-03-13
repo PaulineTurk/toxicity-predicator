@@ -16,10 +16,12 @@ SMILES → molecular descriptors (RDKit) → machine learning model (scikit-lear
 
 
 ## Goal Stack
-Python
-RDKit
-Pandas
-scikit-learn
-Matplotlib
-MLflow
-Poetry (brew install poetry)
+Python  
+RDKit  
+Pandas  
+scikit-learn  
+Matplotlib  
+MLflow  
+Poetry   
+- mac install locally: `brew install poetry`
+- access poetry info: `poetry env info`
