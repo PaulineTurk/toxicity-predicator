@@ -18,4 +18,4 @@ RUN poetry config virtualenvs.create false \
 COPY . .
 
 # Commande par défaut
-CMD ["python", "test/test_poetry_install.py"]
+CMD ["python", "src/main.py"]
